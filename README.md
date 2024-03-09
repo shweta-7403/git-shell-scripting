@@ -27,4 +27,4 @@ Installation
 
    sudo apt-get install nginx
 
-   inst
+
