@@ -5,7 +5,7 @@
 for i in 1 2 3 4 5
 do
 	echo "number is $i"
-
+        sleep 2s
 done
 
 #other way to write
