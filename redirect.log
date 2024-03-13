@@ -1,0 +1,6 @@
+PING www.google.com(bom07s32-in-x04.1e100.net (2404:6800:4009:825::2004)) 56 data bytes
+64 bytes from bom07s32-in-x04.1e100.net (2404:6800:4009:825::2004): icmp_seq=1 ttl=118 time=23.1 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 23.137/23.137/23.137/0.000 ms

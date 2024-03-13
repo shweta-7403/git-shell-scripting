@@ -2,6 +2,8 @@
 
 #to access the arguments
 
+
+
 echo " first argu is $1"
 echo " second argu is  $2"
 
