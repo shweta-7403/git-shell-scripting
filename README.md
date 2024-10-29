@@ -19,7 +19,7 @@ Shell scripting is an essential skill for anyone working in Unix/Linux environme
 
 To dive into shell scripting, follow these steps:
 
-1. **Clone the Repository**:
+ **Clone the Repository**:
    ```bash
    git clone https://github.com/shweta-7403/git-shell-scripting
    cd git-shell-scripting
