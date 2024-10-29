@@ -1,30 +1,25 @@
-Simple notes app
+# Git Shell Scripting
 
-"This is a simple notes app built with React and Django "
+<img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="logo" height="300" width="600">
 
-Requirements
+Welcome to the **Git Shell Scripting** repository! This repository is a collection of my learning, experiments, and practical applications of shell scripting. Here, you'll find a variety of scripts, examples, and notes that cover fundamental and advanced shell scripting concepts.
 
-1. Python
-2. Nodes.js
-3. React
+## Overview
 
-Installation
+Shell scripting is an essential skill for anyone working in Unix/Linux environments. It enables users to automate tasks, manage system configurations, and perform complex operations with simple scripts. This repository serves as a practical guide to shell scripting, documenting my progress and findings.
 
-1. Clone the repository
+## Why Learn Shell Scripting?
 
-   git clone https://github.com/django-notes-app.git
+- **Automation**: Save time by automating repetitive tasks.
+- **Efficiency**: Streamline workflows and reduce errors.
+- **Problem Solving**: Solve complex problems with scripting logic.
+- **Job Readiness**: Enhance your skills for better job opportunities in IT and DevOps.
 
-2. Build an app
+## Getting Started
 
-   docker run -d -p 8000:8000 notes-app: latest
+To dive into shell scripting, follow these steps:
 
-   Nginx
-   Install Nginx reverse proxy to make this application available
-
-   sudo apt-get update
-
-    sudo apt-get install docker.io
-
-   sudo apt-get install nginx
-
-
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/shweta-7403/git-shell-scripting
+   cd git-shell-scripting
